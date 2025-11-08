@@ -1,4 +1,3 @@
-# mlaccelerator
+# Experimenting with FPGAs...
 
-Trained MNIST ML model
 SystemVerilog + Verilator simulation
